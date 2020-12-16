@@ -5,7 +5,7 @@
 *.pyc
 .DS_Store
 .ipynb_checkpoints
-.idea
+.idea/
 checkpoint
 logs/*
 tf_logs/*
